@@ -29,7 +29,7 @@ fieldset{
     border: 0;
 }
 body{
-    background-color: #DDF093;
+    background-image: linear-gradient(to right, #bbe025, white);
     font-family: var(--font1);
     font-size: 1em;
     color: #0E4749;
